@@ -8,7 +8,7 @@ To get started, make sure you have all the dependencies mentioned in the noteboo
 
 ## Running the tests
 
-In notebook#1 running the test gives us our first dataset in the CSV format. This dataset will be used in notebook#2 for training a classifier.
+In notebook#1 (Technical Patterns) running the test gives us our first dataset in the CSV format. This dataset will be used in notebook#2 (ML Technical Patterns) for training a classifier.
 
 
 ## Built With
